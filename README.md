@@ -5,7 +5,7 @@ A simple script for changing fan PWM(speed) based on temperture.
 ## Getting Started
 Clone the repo
 ```
-git clone 
+git clone https://github.com/oryyxx/jetson-fan-controller.git
 ```
 run the following command in terminal:
 ```
