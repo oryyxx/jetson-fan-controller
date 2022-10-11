@@ -3,14 +3,17 @@ A simple script for changing fan PWM(speed) based on temperture.
 
 
 ## Getting Started
+```
+```
+
 run the following command in terminal:
 ```
 python3 jetson-fan.py
 ```
 
 ## Configuration
-There is no need to configurate the temperture and speed, but if you would like to configure the speed you can do so in the python script file.
-```
+There is no need to configure anything, but if you would like to configure the speed you can do so in the python script file.
+```python
 #------------------ Configuration ------------------ 
 tempTable = []
 tempTable.append((20, 50)) #(temp, pwm (0-255)) 
