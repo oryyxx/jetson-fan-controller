@@ -4,7 +4,7 @@ A simple script for changing fan PWM(speed) based on temperture.
 | Jetson  | Tested |
 | ------------- | ------------- |
 |  Xavier  |    ✅ |
-| Nano |    ❌ |
+| Nano |     ✅ |
 
 ## Getting Started
 Clone the repo
